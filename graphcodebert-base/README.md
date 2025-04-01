@@ -1,1 +1,0 @@
-Translate to English: "Put the graphcodebert-base weights in the current folder."
